@@ -1,0 +1,8 @@
+﻿  hw02_a03.c
+C:\Users\나선진\source\repos\HW02\hw02_a03\hw02_a03.c(10,16): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\나선진\source\repos\HW02\hw02_a03\hw02_a03.c(10,16): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\나선진\source\repos\HW02\hw02_a03\hw02_a03.c(20,16): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\나선진\source\repos\HW02\hw02_a03\hw02_a03.c(20,16): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\나선진\source\repos\HW02\hw02_a03\hw02_a03.c(23,16): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\나선진\source\repos\HW02\hw02_a03\hw02_a03.c(23,16): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 3개가 제공되었습니다.
+  hw02_a03.vcxproj -> C:\Users\나선진\source\repos\HW02\Debug\hw02_a03.exe
