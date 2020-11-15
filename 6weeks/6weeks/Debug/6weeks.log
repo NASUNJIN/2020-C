@@ -1,3 +1,0 @@
-﻿  scanfpercom.c
-C:\Users\나선진\source\repos\6weeks\6weeks\scanfpercom.c(9,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  6weeks.vcxproj -> C:\Users\나선진\source\repos\6weeks\Debug\6weeks.exe

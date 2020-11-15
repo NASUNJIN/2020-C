@@ -1,5 +1,0 @@
-﻿  globalvar.c
-C:\Users\나선진\source\repos\5weeks\globalvar\globalvar.c(9,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\나선진\source\repos\5weeks\globalvar\globalvar.c(19,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\나선진\source\repos\5weeks\globalvar\globalvar.c(20,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  globalvar.vcxproj -> C:\Users\나선진\source\repos\5weeks\Debug\globalvar.exe

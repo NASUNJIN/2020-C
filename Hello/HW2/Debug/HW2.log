@@ -1,3 +1,0 @@
-﻿  HW2.c
-C:\Users\나선진\source\repos\Hello\HW2\HW2.c(20,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  HW2.vcxproj -> C:\Users\나선진\source\repos\Hello\Debug\HW2.exe

@@ -1,5 +1,0 @@
-﻿  definecircle.c
-C:\Users\나선진\source\repos\6weeks\definecircle.c\definecircle.c(8,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\나선진\source\repos\6weeks\definecircle.c\definecircle.c(17,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\나선진\source\repos\6weeks\definecircle.c\definecircle.c(18,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  definecircle.c.vcxproj -> C:\Users\나선진\source\repos\6weeks\Debug\definecircle.c.exe
