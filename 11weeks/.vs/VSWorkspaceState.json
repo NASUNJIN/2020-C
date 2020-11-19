@@ -1,15 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\11weeks",
-    "\\arrayaddresssize",
-    "\\arrayaddresssizeptr",
-    "\\arraypspecifier",
-    "\\copystring",
-    "\\pointerarithmetic1",
-    "\\pointerarithmetic2",
-    "\\printfaddress"
+    ""
   ],
-  "SelectedNode": "\\arrayaddresssize\\arrayaddresssize.c",
+  "SelectedNode": "\\소스1.cpp",
   "PreviewInSolutionExplorer": false
 }
