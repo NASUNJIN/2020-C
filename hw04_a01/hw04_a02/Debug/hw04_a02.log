@@ -1,3 +1,0 @@
-﻿  hw4_a02.c
-C:\Users\나선진\source\repos\hw04_a01\hw04_a02\hw4_a02.c(7,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  hw04_a02.vcxproj -> C:\Users\나선진\source\repos\hw04_a01\Debug\hw04_a02.exe

@@ -1,3 +1,0 @@
-﻿  hw1_a02.c
-C:\Users\나선진\source\repos\HW01\hw1_a02\hw1_a02.c(6,1): warning C4244: '초기화 중': 'double'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  hw1_a02.vcxproj -> C:\Users\나선진\source\repos\HW01\Debug\hw1_a02.exe

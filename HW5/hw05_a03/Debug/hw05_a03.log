@@ -1,3 +1,0 @@
-﻿  hw05_a03.c
-C:\Users\나선진\source\repos\HW5\hw05_a03\hw05_a03.c(7,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  hw05_a03.vcxproj -> C:\Users\나선진\source\repos\HW5\Debug\hw05_a03.exe

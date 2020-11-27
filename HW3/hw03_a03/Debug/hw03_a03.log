@@ -1,5 +1,0 @@
-﻿  hw03_a03.c
-C:\Users\나선진\source\repos\HW3\hw03_a03\hw03_a03.c(9,31): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\나선진\source\repos\HW3\hw03_a03\hw03_a03.c(25,12): warning C4098: 'getmax': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\나선진\source\repos\HW3\hw03_a03\hw03_a03.c(36,12): warning C4098: 'getmin': 'void' 함수에서 값을 반환하고 있습니다.
-  hw03_a03.vcxproj -> C:\Users\나선진\source\repos\HW3\Debug\hw03_a03.exe
