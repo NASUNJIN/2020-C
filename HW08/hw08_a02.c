@@ -20,9 +20,8 @@ int main(void) {
 }
 
 void getlength(struct strings* a) {
-
+	char* p = a->str;
 	while (*p++ != '\0') {
-		strAr[]
+		a->length++;
 	}
-
 }
