@@ -21,7 +21,11 @@ int main(void) {
 
 void multiply_matrix(int a[][N], int b[][M], int c[][M]) {
 	int i, j, k;
-
-	
-
+	for (i = 0; i < M; i++) {
+		for (j = 0; j < M; j++) {
+			for (k = 0; k < N; k++) {
+				c[i][j] += a[i][k] * b[k][j];
+			}
+		}
+	}
 }
